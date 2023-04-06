@@ -2,9 +2,9 @@
 
  - Run these commands
      
-     - git clone https://github.com/Tessellate-Imaging/Monk_Object_Detection.git
+     - git clone https://github.com/Ankush0077/billboard-detection.git
      
-     - cd Monk_Object_Detection/5_pytorch_retinanet/installation
+     - cd billboard-detection
      
  - Select the right requirements file and run
  
